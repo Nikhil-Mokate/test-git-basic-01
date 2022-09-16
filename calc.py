@@ -1,2 +1,2 @@
 def (x, y):
-    pass
+    return(y+x)
